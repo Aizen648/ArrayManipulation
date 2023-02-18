@@ -17,6 +17,7 @@ public class ArrayManipulation {
             current += value;
             max = Math.max(max, current);
         }
+
         return max;
     }
 }
