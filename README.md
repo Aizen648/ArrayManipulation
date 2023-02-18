@@ -1,2 +1,2 @@
 # ArrayManipulation
-Task from hackerrank, ArrayManipulation.
+Simply task from hackerrank, ArrayManipulation.
